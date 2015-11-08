@@ -1,0 +1,2 @@
+# TripWizard
+trip planning app
